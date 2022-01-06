@@ -10,6 +10,8 @@
 
 `<section>` seção genérica de conteúdo <br>
 `<header>` cabeçalho de uma página ou de parte da página<br>
-`<article>`representa um conteúdo relevante em uma página<br>
+`<article>` representa um conteúdo relevante em uma página<br>
 `<footer>`  <br>
 `<h1>` ... `<h6>`  <br>
+
+---
