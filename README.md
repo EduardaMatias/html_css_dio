@@ -24,3 +24,38 @@
 ✔️`<h2>` Título da seção `</h2>` <br>
 ✔️`<h3>` Título de artigo `</h3>` <br>
 ✔️`<p>` Conteúdo do artigo `</p>` <br>
+
+✔️O elemento `<a>` tem dois atributos principais: <br>
+1° - hiperlink (href) - hiperlink para onde âncora está apontando <br>
+✔️`<a href="linkedin.com/in/vilaboim"> Linkedin </a>` <br>
+✔️`<a href="mailto:evcm@email.com"> Email </a>` <br>
+
+###### Obs: mailto - email/tel - telefone <br>
+
+2° - target - indica como o link pode ser aberto <br>
+✔️`<a target="_blank"> Link </a>` <br>
+
+###### Obs: blank indica que o link será aberto em uma nova aba <br>
+
+---
+
+### Como inserir imagens em seu site
+
+✔️O elemento `<img>` possui apenas dois atributos próprios <br>
+1° - src (obrigatório) - guarda o caminho da imagem <br>
+2° - alt (recomendado) - mostra a descrição da foto quando ela não é carregada <br>
+
+---
+
+### Como organizar listas com html
+
+✔️`<ul>` - lista não ordenada <br>
+✔️`<ol>` - lista ordenada <br>
+✔️`<li>` - elemento de lista <br>
+
+---
+
+
+
+
+
