@@ -55,6 +55,16 @@
 
 ---
 
+### Introdução e conceitos básicos do CSS
+
+Requisitos básicos <br>
+✔️Editor de texto <br>
+✔️Um navegador de internet <br>
+✔️Conhecimento em html <br>
+
+
+
+
 
 
 
