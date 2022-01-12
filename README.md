@@ -143,11 +143,25 @@ Radius: px e porcentagem <br>
 
 #### Estilizando listas
 
+✔️List-style-type <br>
+`ul{list-style-type: square;}` - altera o marcador da lista para um quadrado <br> 
+`ol{list-style-type: uper-roman;}`- altera o marcador da lista para um algorismo romano maiusculo <br>
+`ul{list-style-type: "#\1F44D";}`- altera o marcador da lista para um simbolo (nesse caso, um emogi) <br> 
 
+✔️List-style-image <br>
+`ul{list-style-image: url(rocket.com);}` - altera o marcador da lista para uma imagem <br> 
 
 ---
 
+### Propriedades de dimensões e alinhamento
 
+✔️Widht - ajusta a largura <br>
+✔️Height - ajusta a altura <br>
+✔️Max-widht - largura máxima do elemento <br>
+✔️Max-height - largura mínima <br>
+✔️Margin - espaçamento em elemento, o valor auto alinha o elemente automaticamente <br>
+✔️Text-align - alinha o texto <br>
+ 
 
 
 
