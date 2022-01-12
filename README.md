@@ -57,10 +57,98 @@
 
 ### Introdução e conceitos básicos do CSS
 
+---
+
+#### Introdução a CSS3
 Requisitos básicos <br>
 ✔️Editor de texto <br>
 ✔️Um navegador de internet <br>
 ✔️Conhecimento em html <br>
+
+Estrutura do css <br>
+✔️Seletores: elementos html <br>
+✔️Declaração: propriedade + valor <br>
+Exemplo: `a, h1, h2{color: green}` <br>
+
+Id e divs <br>
+✔️`Id` (#) `div` (.) <br>
+✔️O Id só pode ser usado uma vez por página <br>
+
+
+#### Conceitos básicos do CSS
+
+Box model <br>
+✔️Margin - espaçamento entre elementos <br>
+✔️Border - circundam o padding e o conteúdo <br>
+✔️Padding - espaçamento entre a borda e o conteúdo <br>
+✔️Content - o que o bloco representa (texto, imagem ou vídeo) <br>
+
+---
+
+### Estilizando elementos, textos e listas
+
+---
+
+#### Estilizando elementos
+
+Como atribuir valores diferentes para cada lado <br>
+✔️Padding/margin: <br>
+`.post {padding: 10px 5px;}` <br>
+10px - parte superior e inferior <br>
+5px - lado esquerdo e direito <br>
+`.post {padding: 15px 10px 5px 0;}` <br>
+15px - parte superior <br>
+10px - lado direito <br>
+5px - parte inferior <br>
+0 - lado esquerdo <br>
+`.post {padding-top: 15px padding-left:10px padding-bottom:5px padding-right:0;}` <br>
+
+Como mudar a cor de fundo <br>
+✔️Background <br>
+`.post {background-color: black;}` <br>
+`.post {background-color: #000;}` <br>
+`.post {background: #000;}` <br>
+
+✔️Border <br>
+Largunra: px, cm, ml... <br>
+Cor: black. #000... <br>
+Esilo: solida, pontilhada, tracejada... <br>
+Radius: px e porcentagem <br>
+`.post{border: 3px solid blue; border-top: 2px dotted green; border-right: 4px dashed pink;}` <br>
+
+#### Estilizando textos
+
+✔️Font-family <br>
+`#title {font-family: verdana;}` - adcionando apenas um tipo de fonte ao texto <br>
+`#title {font-family: verdana, arial;}` - adcionando dois tipos de fonte pois assim caso a primeira não funcione, a segunda será usada <br>
+
+✔️Font-size <br>
+`#title {font-size: 10px;}` - adcionando tamanho de 10px para a font <br>
+
+✔️Font-style <br>
+`#title {font-style: italic;}` - mudando a fonte para italica <br>
+
+✔️Font-weight <br>
+`#title {font-weight: bold;}` - alterando o peso da fonte para negrito <br>
+
+✔️Text-tranform <br>
+`#title {text-tranformt: uppercase;}` - coloca todo o texto em caixa alta <br>
+`#title {text-tranformt: lowercase;}` - coloca todo o texto em caixa baixa <br> 
+`#title {text-tranformt: capitalize;}` - coloca todo as primeiras letras de cada palavra maiúscula <br> 
+
+✔️Text-tdecoration <br>
+`#title {text-decoration: underline;}` - coloca linha abaixo da palavra <br> 
+`#title {text-decoration: overline;}` - coloca linha acima da palavra <br> 
+`#title {text-decoration: line-through;}` - coloca linha ao centro da palavra <br> 
+
+#### Estilizando listas
+
+
+
+---
+
+
+
 
 
 
